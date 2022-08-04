@@ -1,3 +1,7 @@
+# About this site
+
+Abortion is health care. This is a site dedicated to identifying crisis pregnancy centers in Idaho that serve to misinform people about their reproductive health care options.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/idcrisispregnancy/idcrisispregnancy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
