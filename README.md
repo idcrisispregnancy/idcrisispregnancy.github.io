@@ -4,6 +4,8 @@ Abortion is health care. This is a site dedicated to identifying crisis pregnanc
 
 This website was created as part of the virtual scavenger hunt GISH. The item description reads as follows: "In the US, 'pregnancy crisis centers' are often actually anti-abortion centers that trick pregnant people into thinking they are gaining abortion access and then instead try to persuade them to carry to term regardless of their health or personal circumstances. Due to search engine optimization (SEO) placement, they're often falsely listed as abortion/reproductive care clinics on Google. No matter your stance on the issue, disinformation is something we should stop: Create a webpage with a map listing all the fake 'crisis center' sites in one US state. Submit a screenshot of the website with a link to the URL in comments." This site was created for Team PlagueDrHorrible.
 
+This site was created with Github Pages and Google's My Maps.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/idcrisispregnancy/idcrisispregnancy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
