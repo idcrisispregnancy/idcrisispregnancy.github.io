@@ -26,7 +26,7 @@ The map above includes the following crisis pregnancy centers. You should not go
 * Open Arms Real Choices Clinic, Hayden
 * Path Pregnancy Clinic, Boise
 * Reliance Center, Lewiston
-* Sage Women's Center | Pregnancy Services, Twin Falls
+* Sage Women's Center Pregnancy Services, Twin Falls
 * Shepherd's Inn Pregnancy Resource Center, Idaho Falls
 * Stanton Healthcare, Boise
 * Stanton Healthcare, Meridian
